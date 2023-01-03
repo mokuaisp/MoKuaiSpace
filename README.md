@@ -1,2 +1,2 @@
 # MoKuaiSpace
-$$www.mokuai.space$$
+$$ www.mokuai.space $$
